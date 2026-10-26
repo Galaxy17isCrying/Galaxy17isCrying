@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="NEW_IMAGE_LINK" width="600" alt="Galaxy17 LOVES rice" />
+<img width="1372" height="622" alt="image" src="https://github.com/user-attachments/assets/..." />
 
 **Galaxy17 LOVES rice**<br>
 GDG Innovation Community Lead | IT Support Certificate | TESDA Taker soon | Software and Hardware lover
